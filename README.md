@@ -31,16 +31,6 @@ I've developed a modern and responsive landing page using Next.js and TypeScript
 👉 Animation: Created with Framer Motion.
 
 
-## ScreenShot of the Website:
-
-<!-- <img src="https://github.com/tejasvi8686/Responsive-App-Landing-Page-Design/blob/main/screenshots/11.png" width=100% height=100%/> 
-<img src="https://github.com/tejasvi8686/Responsive-App-Landing-Page-Design/blob/main/screenshots/12.png" width=100% height=100%/>
-<img src="https://github.com/tejasvi8686/Responsive-App-Landing-Page-Design/blob/main/screenshots/13.png" width=100% height=100%/>
-<img src="https://github.com/tejasvi8686/Responsive-App-Landing-Page-Design/blob/main/screenshots/14.png" width=100% height=100%/>
-<img src="https://github.com/tejasvi8686/Responsive-App-Landing-Page-Design/blob/main/screenshots/15.png" width=100% height=100%/>
-<img src="https://github.com/tejasvi8686/Responsive-App-Landing-Page-Design/blob/main/screenshots/16.png" width=100% height=100%/>
-<img src="https://github.com/tejasvi8686/Responsive-App-Landing-Page-Design/blob/main/screenshots/17.png" width=100% height=100%/>
-<img src="https://github.com/tejasvi8686/Responsive-App-Landing-Page-Design/blob/main/screenshots/18.png" width=100% height=100%/> -->
 
 ---
 
