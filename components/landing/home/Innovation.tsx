@@ -1,6 +1,6 @@
 "user client";
 import Image from 'next/image';
-import innovationImage from '@/public/assets/innovation.jpg'; // Replace with your actual image path
+import innovationImage from '@/public/assets/Innovation.jpg';
 
 const Innovation = () => {
   return (
